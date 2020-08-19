@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Frontend Novato`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Favio Náquira`,
+      summary: `eterno estudiante, con mente abierta a todo aprendizaje.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Repositorio de conocimiento de un frontend novato.`,
+    siteUrl: `https://frontendnovato.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `fnaquira`,
     },
   },
   plugins: [
